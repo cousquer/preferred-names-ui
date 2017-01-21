@@ -1,6 +1,7 @@
 # Preferred Names UI
+<img src="preferred-names.png" alt="Preferred Names UI"/>
 
-## View a record of preferred name changes for a given day.
+### View a record of preferred name changes for a given day.
 
 This UI is designed to work with an [Apereo Soffit](https://github.com/drewwills/Soffit).
 
