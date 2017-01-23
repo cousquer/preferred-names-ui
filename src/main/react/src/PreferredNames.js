@@ -29,7 +29,7 @@ const today = new Date();
 
 class NamesDate extends Component {
 
-  componentWillMount() {
+  componentDidMount() {
     this.props.updateNames(null, today);
   }
 
